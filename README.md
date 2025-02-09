@@ -1,2 +1,3 @@
 #THEBAND
-- Basic examples for a band's website
+
+Basic examples for a band's website
